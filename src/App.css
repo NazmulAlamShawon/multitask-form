@@ -1,0 +1,12 @@
+.numbers,
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 10px;
+  background-color: gray;
+  height: auto;
+}
+.active {
+  background-color: blueviolet;
+}
